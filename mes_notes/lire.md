@@ -77,3 +77,13 @@ et on obtient le resultat:
         "__v": 0
     }
 ]
+
+
+###
+crud - mise à jour
+###
+
+pour mettre à jour, dans postmal on fait:
+
+
+
