@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/lapinRagnar/creer-une-api-nodejs#readme",
   "dependencies": {
+    "body-parser": "^1.19.1",
     "express": "^4.17.2",
     "mongoose": "^6.1.7",
     "nodemon": "^2.0.15"
