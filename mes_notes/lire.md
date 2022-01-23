@@ -30,5 +30,10 @@ https://www.npmjs.com/package/mongoose
 
 - creer un fichier : models/postsModel.js
 
+###
+configuration d'une routes
+###
+
+
 
 
