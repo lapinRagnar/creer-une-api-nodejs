@@ -34,6 +34,7 @@ https://www.npmjs.com/package/mongoose
 configuration d'une routes
 ###
 
-
+il faut lire l'url localhost:5500/posts
+pour afficher le post
 
 

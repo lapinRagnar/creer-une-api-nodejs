@@ -5,7 +5,7 @@ require('./models/dbConfig')
 const postsRoutes = require('./routes/postsController')
 
 // midleware
-app.use('/', postsRoutes)
+app.use('/posts', postsRoutes)
 
 
 // lancer le server et ecouter sur le port 5500

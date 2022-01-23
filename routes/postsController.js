@@ -5,7 +5,8 @@ const { PostsModel } = require('../models/postsModel')
 
 router.get('/', (req, res) => {
     PostsModel.find((err, docs) => {
-        console.log(docs);
+        if (!err) res.send(docs)
+        else console.log("On arrive pas d'afficher le model post :" + err);
     })
 })
 
