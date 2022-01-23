@@ -1,0 +1,19 @@
+{
+  "name": "3_creer_une_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lapinRagnar/creer-une-api-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lapinRagnar/creer-une-api-nodejs/issues"
+  },
+  "homepage": "https://github.com/lapinRagnar/creer-une-api-nodejs#readme"
+}
